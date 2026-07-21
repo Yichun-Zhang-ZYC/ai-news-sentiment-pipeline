@@ -7,7 +7,7 @@ impact (automation, risk, productivity...) gets attributed to AI, and whether
 the tone of coverage is positive, neutral, or negative — and how that's
 shifted over four years.
 
-**[→ Open the interactive dashboard](web/index.html)** (topic breakdown, sentiment over time, impact/technology mix by industry)
+**[→ Open the interactive dashboard](https://yichun-zhang-zyc.github.io/ai-news-sentiment-pipeline/)** (topic breakdown, sentiment over time, impact/technology mix by industry)
 
 ## Pipeline
 
