@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+_train_output/
+models/ai_sentiment_model/*.safetensors
+models/ai_sentiment_model/*.bin
+.DS_Store

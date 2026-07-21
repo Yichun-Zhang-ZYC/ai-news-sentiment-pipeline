@@ -1,0 +1,12 @@
+{
+  "input": "clean_news_v2_light_regex.parquet",
+  "output": "news_relevant_v1.parquet",
+  "rows_before": 197985,
+  "rows_after": 138589,
+  "keep_rate": 0.6999974745561532,
+  "threshold_quantile": 0.30000000000000004,
+  "threshold_value": 0.19626334309577942,
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "max_chars_used": 1000,
+  "batch_size": 256
+}

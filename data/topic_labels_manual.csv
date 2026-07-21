@@ -1,0 +1,21 @@
+topic,topic_name,industry_label,keep
+-1,Outliers / noise,Noise,0
+0,AI chips and GPUs,AI Infrastructure,1
+1,AI in healthcare and medical imaging,Healthcare,1
+2,Newswire template / geography noise,Noise,0
+3,Enterprise AI adoption (IT services),Enterprise IT,1
+4,AI cybersecurity,Cybersecurity,1
+5,AI in lending and financial services,Finance,1
+6,China AI ecosystem,Global AI Competition,0
+7,AI safety and existential risk,AI Governance / Risk,1
+8,Autonomous vehicles and mobility AI,Transportation,1
+9,Consumer AI assistants and devices,Consumer Electronics,1
+10,AI in education,Education,1
+11,AI and crypto / Web3,Crypto / Web3,1
+12,Website navigation / template noise,Noise,0
+13,AI regulation and national policy,Government / Regulation,1
+14,AI adoption in small businesses,Small Business,1
+15,National AI strategy and global hubs,Government / Regulation,1
+16,Generative AI for media and video,Media / Content Creation,1
+17,AI company governance events,AI Governance / Risk,1
+18,AI model competition and launches,Noise,0

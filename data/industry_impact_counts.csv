@@ -1,0 +1,79 @@
+industry_label,impact_modes,count
+AI Governance / Risk,risk_or_disruption,743
+AI Governance / Risk,automation,647
+AI Governance / Risk,augmentation,606
+AI Governance / Risk,productivity_gain,533
+AI Governance / Risk,cost_reduction,69
+AI Governance / Risk,workflow_redesign,36
+AI Infrastructure,productivity_gain,3296
+AI Infrastructure,augmentation,2191
+AI Infrastructure,automation,1913
+AI Infrastructure,risk_or_disruption,1039
+AI Infrastructure,cost_reduction,451
+AI Infrastructure,workflow_redesign,378
+Consumer Electronics,augmentation,739
+Consumer Electronics,productivity_gain,339
+Consumer Electronics,automation,239
+Consumer Electronics,risk_or_disruption,208
+Consumer Electronics,workflow_redesign,42
+Consumer Electronics,cost_reduction,32
+Crypto / Web3,automation,618
+Crypto / Web3,productivity_gain,486
+Crypto / Web3,augmentation,301
+Crypto / Web3,risk_or_disruption,245
+Crypto / Web3,cost_reduction,41
+Crypto / Web3,workflow_redesign,41
+Cybersecurity,automation,1015
+Cybersecurity,productivity_gain,935
+Cybersecurity,risk_or_disruption,794
+Cybersecurity,augmentation,778
+Cybersecurity,workflow_redesign,198
+Cybersecurity,cost_reduction,68
+Education,augmentation,654
+Education,risk_or_disruption,342
+Education,productivity_gain,339
+Education,automation,258
+Education,workflow_redesign,45
+Education,cost_reduction,22
+Enterprise IT,productivity_gain,879
+Enterprise IT,automation,643
+Enterprise IT,augmentation,606
+Enterprise IT,risk_or_disruption,567
+Enterprise IT,workflow_redesign,300
+Enterprise IT,cost_reduction,73
+Finance,automation,878
+Finance,productivity_gain,828
+Finance,augmentation,658
+Finance,risk_or_disruption,468
+Finance,workflow_redesign,237
+Finance,cost_reduction,177
+Government / Regulation,productivity_gain,823
+Government / Regulation,risk_or_disruption,769
+Government / Regulation,automation,702
+Government / Regulation,augmentation,563
+Government / Regulation,workflow_redesign,325
+Government / Regulation,cost_reduction,68
+Healthcare,productivity_gain,2087
+Healthcare,augmentation,2082
+Healthcare,automation,1375
+Healthcare,risk_or_disruption,836
+Healthcare,cost_reduction,363
+Healthcare,workflow_redesign,332
+Media / Content Creation,productivity_gain,284
+Media / Content Creation,automation,221
+Media / Content Creation,augmentation,216
+Media / Content Creation,risk_or_disruption,108
+Media / Content Creation,cost_reduction,59
+Media / Content Creation,workflow_redesign,26
+Small Business,productivity_gain,750
+Small Business,automation,675
+Small Business,augmentation,608
+Small Business,risk_or_disruption,418
+Small Business,workflow_redesign,250
+Small Business,cost_reduction,164
+Transportation,augmentation,553
+Transportation,productivity_gain,528
+Transportation,automation,474
+Transportation,risk_or_disruption,158
+Transportation,cost_reduction,86
+Transportation,workflow_redesign,56

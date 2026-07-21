@@ -1,0 +1,79 @@
+industry_label,technologies,count
+AI Governance / Risk,llm,907
+AI Governance / Risk,chatbot_or_assistant,880
+AI Governance / Risk,automation_platform,299
+AI Governance / Risk,computer_vision,84
+AI Governance / Risk,predictive_analytics,36
+AI Governance / Risk,decision_support_system,19
+AI Infrastructure,llm,2668
+AI Infrastructure,chatbot_or_assistant,1268
+AI Infrastructure,automation_platform,924
+AI Infrastructure,computer_vision,423
+AI Infrastructure,predictive_analytics,289
+AI Infrastructure,decision_support_system,41
+Consumer Electronics,llm,826
+Consumer Electronics,chatbot_or_assistant,635
+Consumer Electronics,automation_platform,101
+Consumer Electronics,computer_vision,23
+Consumer Electronics,predictive_analytics,12
+Consumer Electronics,decision_support_system,6
+Crypto / Web3,automation_platform,269
+Crypto / Web3,llm,228
+Crypto / Web3,chatbot_or_assistant,127
+Crypto / Web3,predictive_analytics,115
+Crypto / Web3,computer_vision,39
+Crypto / Web3,decision_support_system,29
+Cybersecurity,llm,1122
+Cybersecurity,chatbot_or_assistant,601
+Cybersecurity,automation_platform,240
+Cybersecurity,predictive_analytics,90
+Cybersecurity,computer_vision,69
+Cybersecurity,decision_support_system,23
+Education,llm,616
+Education,chatbot_or_assistant,533
+Education,automation_platform,60
+Education,computer_vision,40
+Education,predictive_analytics,16
+Education,decision_support_system,6
+Enterprise IT,llm,1050
+Enterprise IT,chatbot_or_assistant,348
+Enterprise IT,automation_platform,261
+Enterprise IT,predictive_analytics,71
+Enterprise IT,computer_vision,64
+Enterprise IT,decision_support_system,11
+Finance,llm,640
+Finance,chatbot_or_assistant,417
+Finance,predictive_analytics,244
+Finance,automation_platform,219
+Finance,computer_vision,50
+Finance,decision_support_system,20
+Government / Regulation,llm,821
+Government / Regulation,chatbot_or_assistant,346
+Government / Regulation,automation_platform,251
+Government / Regulation,computer_vision,87
+Government / Regulation,predictive_analytics,67
+Government / Regulation,decision_support_system,13
+Healthcare,llm,1204
+Healthcare,computer_vision,688
+Healthcare,chatbot_or_assistant,632
+Healthcare,automation_platform,376
+Healthcare,predictive_analytics,325
+Healthcare,decision_support_system,307
+Media / Content Creation,llm,320
+Media / Content Creation,chatbot_or_assistant,132
+Media / Content Creation,automation_platform,45
+Media / Content Creation,computer_vision,19
+Media / Content Creation,decision_support_system,11
+Media / Content Creation,predictive_analytics,6
+Small Business,llm,660
+Small Business,chatbot_or_assistant,384
+Small Business,automation_platform,227
+Small Business,predictive_analytics,101
+Small Business,computer_vision,81
+Small Business,decision_support_system,23
+Transportation,llm,295
+Transportation,chatbot_or_assistant,152
+Transportation,computer_vision,121
+Transportation,automation_platform,106
+Transportation,predictive_analytics,47
+Transportation,decision_support_system,4

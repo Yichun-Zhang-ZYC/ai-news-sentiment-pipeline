@@ -1,0 +1,15 @@
+pandas>=2.2
+numpy>=1.26
+pyarrow>=18.0
+scikit-learn>=1.4
+sentence-transformers>=3.0
+bertopic>=0.16
+umap-learn>=0.5
+hdbscan>=0.8
+transformers>=4.40
+accelerate>=0.30
+torch>=2.2
+datasets>=2.19
+evaluate>=0.4
+seaborn>=0.13
+matplotlib>=3.8
